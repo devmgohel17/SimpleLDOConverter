@@ -21,17 +21,12 @@ A compact and efficient **5V to 3.3V Low Dropout (LDO) regulator PCB** designed 
 ---
 
 ## Schematic
-![Schematic](images/schematic.png)
-
----
-
-## PCB Layout
-![PCB](images/pcb.png)
+![Schematic]("C:\Users\devmg\Downloads\schematic.png")
 
 ---
 
 ## 📷 3D View
-![3D](images/3d.png)
+![3D]("C:\Users\devmg\Downloads\3d img.png")
 
 ---
 
